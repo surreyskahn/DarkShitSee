@@ -7,5 +7,5 @@
 >很重要
 >很重要
 ## 一招搞定
-- ![微信公众号].(https://github.com/surreyskahn/DarkShitSee/blob/main/%E5%A4%A7%E5%AD%A6%E4%B9%A0.jpg)
+- ![微信公众号](https://github.com/surreyskahn/DarkShitSee/blob/main/%E5%A4%A7%E5%AD%A6%E4%B9%A0.jpg)
 - 回复“大学习”
