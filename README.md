@@ -7,5 +7,5 @@
 >很重要
 >很重要
 ## 一招搞定
-- 关注[微信公众号].(https://bucmeducn-my.sharepoint.com/:i:/g/personal/hutianshi_bucm_edu_cn/EbVbjQH3gYNEmsTFTDtJpEUBEw7dWWsH23HYDtFvcSmQ6w?e=vjfNGC)
+- ![微信公众号].(https://bucmeducn-my.sharepoint.com/:i:/g/personal/hutianshi_bucm_edu_cn/EbVbjQH3gYNEmsTFTDtJpEUBEw7dWWsH23HYDtFvcSmQ6w?e=vjfNGC)
 - 回复“大学习”
